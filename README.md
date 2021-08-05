@@ -1,4 +1,4 @@
 # sign-in-form
-"Log In" Form Example.
+Sign In Form
 Created by Bahri Can Ergül.
 
